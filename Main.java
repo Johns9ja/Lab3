@@ -25,8 +25,6 @@ class Main {
         k++;
       }
     }
-
-
-
+    System.out.println("Blast off!");
   }
 }
